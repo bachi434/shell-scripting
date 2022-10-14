@@ -4,6 +4,6 @@
 
 echo hello world
 
-echo -e \e[31mRED\e[32GREEN\e[33mYELLOW\e[34mBLUE\e[35mMAGENTA\e[36mCYAN\e[0m
+echo -e "\e[31mRED\e[32GREEN\e[33mYELLOW\e[34mBLUE\e[35mMAGENTA\e[36mCYAN\e[0m"
 
 
