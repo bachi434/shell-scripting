@@ -11,6 +11,7 @@ echo -e "\e[1;31mRED\e[1;32mGREEN\e[1;33mYELLOW\e[1;34mBLUE\e[1;35mMAGENTA\e[1;3
 echo -e "line1\nline2"
 
 
-echo -e "line1\t\tline2
+echo -e "line1\t\tline2"
 
-"
+echo ""
+
