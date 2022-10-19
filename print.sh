@@ -13,5 +13,8 @@ echo -e "line1\nline2"
 
 echo -e "line1\t\tline2"
 
-echo ""
+student_name="bachi"
+
+echo $student_name
+
 
